@@ -1,0 +1,17 @@
+body{
+  color: purple;
+  font-size: 30px;
+  background: pink;
+  text-align: center;
+}
+.firstgroup {
+  color: red;
+}
+
+.lastgroup {
+  color: grey;
+}
+
+#important {
+  font-size: 40px
+}
