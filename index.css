@@ -4,6 +4,11 @@ body{
   background: pink;
   text-align: center;
 }
+
+.first-of-all {
+  color: black;
+}
+
 .firstgroup {
   color: red;
 }
